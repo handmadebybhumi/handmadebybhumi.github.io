@@ -177,8 +177,9 @@ export default function Layout({ children, currentPageName }) {
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
               <p className="text-white/80">
-                Email: hello@handmadebybhumi.com<br />
-                Phone: +91 98765 43210
+                Email: handmadebybhumi@gmail.com<br />
+                Instagram: instagram.com/@handmade.bybhumi<br />
+                Phone: +91 8618872043
               </p>
             </div>
           </div>
